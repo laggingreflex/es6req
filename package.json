@@ -1,0 +1,7 @@
+{
+  "name": "es6req",
+  "version": "0.0.0",
+  "description": "Minimal ES6 require",
+  "main": "index.js",
+  "repository": "laggingreflex/es6req"
+}
